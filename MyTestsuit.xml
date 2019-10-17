@@ -9,15 +9,15 @@
     </classes>
   </test> <!-- Test -->
   
-
+<!--  
     <test thread-count="5" name="IETest1">
           <parameter name="bro" value="ie"></parameter>
     <classes>
       <class name="com.test.maven.mavenProject.TestNGBrowser"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
   
-
+-->
     <test thread-count="5" name="FirefoxTest">
           <parameter name="bro" value="firefox"></parameter>
     <classes>
