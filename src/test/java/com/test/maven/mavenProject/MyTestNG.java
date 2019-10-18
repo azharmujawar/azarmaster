@@ -31,7 +31,7 @@ public class MyTestNG {
   @Test(priority=1)
   public void x() 
   {
-	  System.out.println("priority=1");
+	//  System.out.println("priority=1");
 	  
   }
   
