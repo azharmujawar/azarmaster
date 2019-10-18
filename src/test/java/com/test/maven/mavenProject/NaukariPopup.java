@@ -72,7 +72,7 @@ public class NaukariPopup {
 	public void afterTest() throws InterruptedException {
  
 		
-		Thread.sleep(5000);
+		//Thread.sleep(5000);
 		driver.quit();
 	}
 
