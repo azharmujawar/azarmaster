@@ -17,7 +17,6 @@
     </classes>
   </test> 
   
--->
     <test thread-count="5" name="FirefoxTest">
           <parameter name="bro" value="firefox"></parameter>
     <classes>
@@ -25,5 +24,6 @@
     </classes>
   </test> <!-- Test -->
   
+-->
   
 </suite> <!-- Suite -->
