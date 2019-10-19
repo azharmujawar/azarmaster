@@ -39,7 +39,7 @@ public class LoginClass {
 		// number']//preceding::input[1]"));
 
 		
-		try{
+		/*try{
 			
 			loginextra.click();
 			
@@ -48,7 +48,7 @@ public class LoginClass {
 		{
 			System.out.println("Unable to Click ");
 		}
-		
+		*/
 		
 		
 		loctorUsername.sendKeys("azhar123@gmail.com");
